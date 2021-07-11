@@ -1,0 +1,711 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19041.1052; Version 2004; 64bit' Language: 'ko' Physical Memory: 16183 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/82103/Desktop/Personal/Files/UnityFile/2dscroll
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+63169
+Successfully changed project path to: C:/Users/82103/Desktop/Personal/Files/UnityFile/2dscroll
+C:/Users/82103/Desktop/Personal/Files/UnityFile/2dscroll
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 37.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/82103/Desktop/Personal/Files/UnityFile/2dscroll/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+    Vendor:   
+    VRAM:     8091 MB
+    Driver:   27.20.100.8853
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56876
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002988 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 23.92 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.989 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000691 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.598 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1185 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.9 MB.
+System memory in use after: 60.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1627.
+Total: 1.526700 ms (FindLiveObjects: 0.105700 ms CreateObjectMapping: 0.026100 ms MarkObjects: 1.308900 ms  DeleteObjects: 0.085000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Epic Positive Game Risers SFX/Congrats build 1.wav
+  artifactKey: Guid(d7281e096a7d0448cb6b2e9b12d85282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Positive Game Risers SFX/Congrats build 1.wav using Guid(d7281e096a7d0448cb6b2e9b12d85282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e569e592ac0e409a8310b05cc314c13') in 0.084877 seconds
+  Import took 0.088140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.542710 seconds.
+  path: Assets/8-Bit Style Sound Effects/Regular/Powering down 01.wav
+  artifactKey: Guid(0c836c3fb1cb15049a877ad68bdee601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Regular/Powering down 01.wav using Guid(0c836c3fb1cb15049a877ad68bdee601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '595a6e813d876d27e96c5eb8e339686a') in 0.016253 seconds
+  Import took 0.018232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.674291 seconds.
+  path: Assets/Scenes/GameOver.unity
+  artifactKey: Guid(af20d7eed207fab4bb3edbd13e3740e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameOver.unity using Guid(af20d7eed207fab4bb3edbd13e3740e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '483d3e4e7c1680f1181c79e8cc128151') in 0.002907 seconds
+  Import took 0.004922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.009437 seconds.
+  path: Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Powering down 01_8-Bit_11025Hz.wav
+  artifactKey: Guid(137c0ad2b3d5c3146a48d6530a3e22b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Powering down 01_8-Bit_11025Hz.wav using Guid(137c0ad2b3d5c3146a48d6530a3e22b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d29182e4a52bae12f0c1e6600fb1004') in 0.012079 seconds
+  Import took 0.013921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Powering down 01_8-Bit_11025Hz.wav
+  artifactKey: Guid(137c0ad2b3d5c3146a48d6530a3e22b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Powering down 01_8-Bit_11025Hz.wav using Guid(137c0ad2b3d5c3146a48d6530a3e22b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d29182e4a52bae12f0c1e6600fb1004') in 0.012079 seconds
+  Import took 0.014374 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000376 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.578 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395206) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1170 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.5 MB.
+System memory in use after: 62.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1639.
+Total: 1.678000 ms (FindLiveObjects: 0.211300 ms CreateObjectMapping: 0.099000 ms MarkObjects: 1.305500 ms  DeleteObjects: 0.061100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 37.650267 seconds.
+  path: Assets/Prefabs/Explosion.prefab
+  artifactKey: Guid(e9032dcc8a6c6524f817587c6026eb48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Explosion.prefab using Guid(e9032dcc8a6c6524f817587c6026eb48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00f34d88309f41558b8911b99fa45da2') in 0.050259 seconds
+  Import took 0.052144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.803689 seconds.
+  path: Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Boom_C_06_8-Bit_11025Hz.wav
+  artifactKey: Guid(1b19d458a6bd84743913be3ff6bd56ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Boom_C_06_8-Bit_11025Hz.wav using Guid(1b19d458a6bd84743913be3ff6bd56ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '427b97d2f67ef1d42c5a73779eff4b81') in 0.014705 seconds
+  Import took 0.016449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003314 seconds.
+  path: Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Boom_C_06_8-Bit_11025Hz.wav
+  artifactKey: Guid(1b19d458a6bd84743913be3ff6bd56ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Boom_C_06_8-Bit_11025Hz.wav using Guid(1b19d458a6bd84743913be3ff6bd56ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '427b97d2f67ef1d42c5a73779eff4b81') in 0.009351 seconds
+  Import took 0.011692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.560663 seconds.
+  path: Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Boom_C_08_8-Bit_11025Hz.wav
+  artifactKey: Guid(36b16062a5709a046a0cdc3e07f9bd55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Boom_C_08_8-Bit_11025Hz.wav using Guid(36b16062a5709a046a0cdc3e07f9bd55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e0bd75f4b7502377c92c47d0d9d4885') in 0.010313 seconds
+  Import took 0.012609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000653 seconds.
+  path: Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Boom_C_08_8-Bit_11025Hz.wav
+  artifactKey: Guid(36b16062a5709a046a0cdc3e07f9bd55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Boom_C_08_8-Bit_11025Hz.wav using Guid(36b16062a5709a046a0cdc3e07f9bd55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e0bd75f4b7502377c92c47d0d9d4885') in 0.008122 seconds
+  Import took 0.010178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.123733 seconds.
+  path: Assets/Prefabs/Explosion.prefab
+  artifactKey: Guid(e9032dcc8a6c6524f817587c6026eb48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Explosion.prefab using Guid(e9032dcc8a6c6524f817587c6026eb48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '073b76791acb1bf29d75da812922dc3d') in 0.007269 seconds
+  Import took 0.009514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.569554 seconds.
+  path: Assets/8-Bit Style Sound Effects/Regular/Boom_C_06.wav
+  artifactKey: Guid(a5304f2aaa78b89428e2f642aa5db925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Regular/Boom_C_06.wav using Guid(a5304f2aaa78b89428e2f642aa5db925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bad9fff40f02971a83acda8c256c085') in 0.013448 seconds
+  Import took 0.015388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.715323 seconds.
+  path: Assets/8-Bit Style Sound Effects/Regular/Hurt_C_08.wav
+  artifactKey: Guid(b5bf5321322df7d46abe4847d1209e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Regular/Hurt_C_08.wav using Guid(b5bf5321322df7d46abe4847d1209e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd51c7e90abe63da92dfded9ad41f6c3') in 0.012029 seconds
+  Import took 0.013758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006374 seconds.
+  path: Assets/8-Bit Style Sound Effects/Regular/Hurt_C_08.wav
+  artifactKey: Guid(b5bf5321322df7d46abe4847d1209e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Regular/Hurt_C_08.wav using Guid(b5bf5321322df7d46abe4847d1209e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd51c7e90abe63da92dfded9ad41f6c3') in 0.011191 seconds
+  Import took 0.012988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.498562 seconds.
+  path: Assets/Prefabs/MeteorExplosion.prefab
+  artifactKey: Guid(c2c4052a81f3b694ba83290261552f7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/MeteorExplosion.prefab using Guid(c2c4052a81f3b694ba83290261552f7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '078156424d59652cc567164efd7b0c34') in 0.014474 seconds
+  Import took 0.016379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.093528 seconds.
+  path: Assets/Prefabs/MeteorExplosion.prefab
+  artifactKey: Guid(c2c4052a81f3b694ba83290261552f7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/MeteorExplosion.prefab using Guid(c2c4052a81f3b694ba83290261552f7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6d74580c6375e63da781fd3ffe0aa4b') in 0.008945 seconds
+  Import took 0.010985 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000516 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.579 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395206) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1170 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.6 MB.
+System memory in use after: 62.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1643.
+Total: 1.929500 ms (FindLiveObjects: 0.097600 ms CreateObjectMapping: 0.037200 ms MarkObjects: 1.734900 ms  DeleteObjects: 0.059000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000567 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.592 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395206) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1170 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.6 MB.
+System memory in use after: 62.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1646.
+Total: 1.602700 ms (FindLiveObjects: 0.097300 ms CreateObjectMapping: 0.021100 ms MarkObjects: 1.415900 ms  DeleteObjects: 0.067200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000431 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.573 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395206) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1170 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.6 MB.
+System memory in use after: 62.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1649.
+Total: 1.935100 ms (FindLiveObjects: 0.161900 ms CreateObjectMapping: 0.037800 ms MarkObjects: 1.666600 ms  DeleteObjects: 0.067700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 205.240189 seconds.
+  path: Assets/Scenes/Stage01.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage01.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4534d55b5bf6126f183a8461e203dce2') in 0.014688 seconds
+  Import took 0.018644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004779 seconds.
+  path: Assets/Scenes/Stage01.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage01.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4534d55b5bf6126f183a8461e203dce2') in 0.002394 seconds
+  Import took 0.004382 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000494 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.655 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395206) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1170 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.6 MB.
+System memory in use after: 62.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1652.
+Total: 1.738000 ms (FindLiveObjects: 0.167400 ms CreateObjectMapping: 0.062500 ms MarkObjects: 1.410000 ms  DeleteObjects: 0.096700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 51.478819 seconds.
+  path: Assets/8-Bit Style Sound Effects/Regular/Blip_C_04.wav
+  artifactKey: Guid(f0a6f3aedaecaca4aa2e1a9aa96464bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Regular/Blip_C_04.wav using Guid(f0a6f3aedaecaca4aa2e1a9aa96464bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '140d1866413ee59f167e6e604246cff8') in 0.040459 seconds
+  Import took 0.042683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.740612 seconds.
+  path: Assets/8-Bit Style Sound Effects/Regular/Blip_C_03.wav
+  artifactKey: Guid(becf2d19fedff7b479581f8ea2716d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Regular/Blip_C_03.wav using Guid(becf2d19fedff7b479581f8ea2716d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5063216fc16ac615b70a806bae19f356') in 0.012884 seconds
+  Import took 0.014871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.431683 seconds.
+  path: Assets/8-Bit Style Sound Effects/Regular/Blip_C_06.wav
+  artifactKey: Guid(343d178b4ed1f9a419424aadfe23ff25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Regular/Blip_C_06.wav using Guid(343d178b4ed1f9a419424aadfe23ff25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73a0c9fb55fb24c4b68b02888d1b5b4e') in 0.010945 seconds
+  Import took 0.012731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001930 seconds.
+  path: Assets/8-Bit Style Sound Effects/Regular/Blip_C_06.wav
+  artifactKey: Guid(343d178b4ed1f9a419424aadfe23ff25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Regular/Blip_C_06.wav using Guid(343d178b4ed1f9a419424aadfe23ff25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73a0c9fb55fb24c4b68b02888d1b5b4e') in 0.006660 seconds
+  Import took 0.008457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.770526 seconds.
+  path: Assets/8-Bit Style Sound Effects/Regular/Blip_C_09.wav
+  artifactKey: Guid(017dfb81064461147b94f666a68585c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Regular/Blip_C_09.wav using Guid(017dfb81064461147b94f666a68585c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37a5e248e17417a585dbb73e089feb20') in 0.011322 seconds
+  Import took 0.013226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000896 seconds.
+  path: Assets/8-Bit Style Sound Effects/Regular/Blip_C_09.wav
+  artifactKey: Guid(017dfb81064461147b94f666a68585c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Regular/Blip_C_09.wav using Guid(017dfb81064461147b94f666a68585c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37a5e248e17417a585dbb73e089feb20') in 0.007128 seconds
+  Import took 0.009467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.131229 seconds.
+  path: Assets/8-Bit Style Sound Effects/Regular/Hurt_C_01.wav
+  artifactKey: Guid(9f79d759e08b9b64db080bd318582c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Regular/Hurt_C_01.wav using Guid(9f79d759e08b9b64db080bd318582c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a17bf92601dbeb26f6102fead7b6237') in 0.018434 seconds
+  Import took 0.021746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.164684 seconds.
+  path: Assets/8-Bit Style Sound Effects/Regular/Boom_C_09.wav
+  artifactKey: Guid(b0b0e5de9e18ba442b38742c7eadcab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Regular/Boom_C_09.wav using Guid(b0b0e5de9e18ba442b38742c7eadcab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '357e72deeea19fe49d5e9c595fb27e42') in 0.011858 seconds
+  Import took 0.013607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001283 seconds.
+  path: Assets/8-Bit Style Sound Effects/Regular/Boom_C_09.wav
+  artifactKey: Guid(b0b0e5de9e18ba442b38742c7eadcab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Regular/Boom_C_09.wav using Guid(b0b0e5de9e18ba442b38742c7eadcab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '357e72deeea19fe49d5e9c595fb27e42') in 0.006318 seconds
+  Import took 0.007908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.964265 seconds.
+  path: Assets/8-Bit Style Sound Effects/Regular/Boom_C_01.wav
+  artifactKey: Guid(d11217810c791464f940f0d0d4572513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Regular/Boom_C_01.wav using Guid(d11217810c791464f940f0d0d4572513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bccb5bd097e3d7743505b92fb6305722') in 0.014112 seconds
+  Import took 0.016008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.930564 seconds.
+  path: Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Sensor 02_8-Bit_11025Hz.wav
+  artifactKey: Guid(a5d0a314d3bcdf943a8c8cdab68d3a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Sensor 02_8-Bit_11025Hz.wav using Guid(a5d0a314d3bcdf943a8c8cdab68d3a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49f1d7feade6ab1425db859fccbd3582') in 0.011773 seconds
+  Import took 0.021367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.323856 seconds.
+  path: Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_05_8-Bit_11025Hz.wav
+  artifactKey: Guid(586cdf59812c57747bcd22532fa44580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_05_8-Bit_11025Hz.wav using Guid(586cdf59812c57747bcd22532fa44580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1ac29e71403901d14911d220fadb367') in 0.017961 seconds
+  Import took 0.019846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.357902 seconds.
+  path: Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_07_8-Bit_11025Hz.wav
+  artifactKey: Guid(4d256d8070170c741822ef3f3c24b2dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_07_8-Bit_11025Hz.wav using Guid(4d256d8070170c741822ef3f3c24b2dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08df67621d3df21fe084d3a8b7f0cbaf') in 0.011013 seconds
+  Import took 0.012655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001913 seconds.
+  path: Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_07_8-Bit_11025Hz.wav
+  artifactKey: Guid(4d256d8070170c741822ef3f3c24b2dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_07_8-Bit_11025Hz.wav using Guid(4d256d8070170c741822ef3f3c24b2dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08df67621d3df21fe084d3a8b7f0cbaf') in 0.009541 seconds
+  Import took 0.011853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.488263 seconds.
+  path: Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_08_8-Bit_11025Hz.wav
+  artifactKey: Guid(883acfd132926d54b864f023c6f3220d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_08_8-Bit_11025Hz.wav using Guid(883acfd132926d54b864f023c6f3220d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87b79243e90af841aa61cfe00b7e318f') in 0.010031 seconds
+  Import took 0.011964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000824 seconds.
+  path: Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_08_8-Bit_11025Hz.wav
+  artifactKey: Guid(883acfd132926d54b864f023c6f3220d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_08_8-Bit_11025Hz.wav using Guid(883acfd132926d54b864f023c6f3220d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87b79243e90af841aa61cfe00b7e318f') in 0.005666 seconds
+  Import took 0.007615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.926505 seconds.
+  path: Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_09_8-Bit_11025Hz.wav
+  artifactKey: Guid(1ea655ec9467e8f43b19ebbf6f95781f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_09_8-Bit_11025Hz.wav using Guid(1ea655ec9467e8f43b19ebbf6f95781f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6ed80c97256aac8f3a73fc1b432529d') in 0.016810 seconds
+  Import took 0.018447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.009763 seconds.
+  path: Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_03_8-Bit_11025Hz.wav
+  artifactKey: Guid(41cfd9d5497136546aec1b9eace0231f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_03_8-Bit_11025Hz.wav using Guid(41cfd9d5497136546aec1b9eace0231f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f682c79fe56241a34cab22caa21c7fb') in 0.010371 seconds
+  Import took 0.012144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001442 seconds.
+  path: Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_03_8-Bit_11025Hz.wav
+  artifactKey: Guid(41cfd9d5497136546aec1b9eace0231f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_03_8-Bit_11025Hz.wav using Guid(41cfd9d5497136546aec1b9eace0231f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f682c79fe56241a34cab22caa21c7fb') in 0.006220 seconds
+  Import took 0.008426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.995647 seconds.
+  path: Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_04_8-Bit_11025Hz.wav
+  artifactKey: Guid(8f067718d315c1d46b8fa9972d98147b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_04_8-Bit_11025Hz.wav using Guid(8f067718d315c1d46b8fa9972d98147b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c315675642bc0fd0f9d98f7048aa0659') in 0.012009 seconds
+  Import took 0.013720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001174 seconds.
+  path: Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_04_8-Bit_11025Hz.wav
+  artifactKey: Guid(8f067718d315c1d46b8fa9972d98147b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_04_8-Bit_11025Hz.wav using Guid(8f067718d315c1d46b8fa9972d98147b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c315675642bc0fd0f9d98f7048aa0659') in 0.006864 seconds
+  Import took 0.009405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.767220 seconds.
+  path: Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_02_8-Bit_11025Hz.wav
+  artifactKey: Guid(287714c74120797488f2baa3f148324a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_02_8-Bit_11025Hz.wav using Guid(287714c74120797488f2baa3f148324a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c52f85c323cea7fe119d7e2ca126729b') in 0.010790 seconds
+  Import took 0.012795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001685 seconds.
+  path: Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_02_8-Bit_11025Hz.wav
+  artifactKey: Guid(287714c74120797488f2baa3f148324a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_02_8-Bit_11025Hz.wav using Guid(287714c74120797488f2baa3f148324a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c52f85c323cea7fe119d7e2ca126729b') in 0.006805 seconds
+  Import took 0.009036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.267347 seconds.
+  path: Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_01_8-Bit_11025Hz.wav
+  artifactKey: Guid(8d25f782fcd55384fa1c33310d47f083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_01_8-Bit_11025Hz.wav using Guid(8d25f782fcd55384fa1c33310d47f083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b311b6f3bd3a09e483d4aa28d6cc535') in 0.011409 seconds
+  Import took 0.013740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001417 seconds.
+  path: Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_01_8-Bit_11025Hz.wav
+  artifactKey: Guid(8d25f782fcd55384fa1c33310d47f083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_01_8-Bit_11025Hz.wav using Guid(8d25f782fcd55384fa1c33310d47f083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b311b6f3bd3a09e483d4aa28d6cc535') in 0.006591 seconds
+  Import took 0.009030 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000606 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.656 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395206) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1170 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.6 MB.
+System memory in use after: 62.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1656.
+Total: 1.461300 ms (FindLiveObjects: 0.096500 ms CreateObjectMapping: 0.020300 ms MarkObjects: 1.302600 ms  DeleteObjects: 0.041300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000518 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.587 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395206) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1170 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.6 MB.
+System memory in use after: 62.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1659.
+Total: 1.735900 ms (FindLiveObjects: 0.099700 ms CreateObjectMapping: 0.022400 ms MarkObjects: 1.547200 ms  DeleteObjects: 0.064600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 121.139532 seconds.
+  path: Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_06_8-Bit_11025Hz.wav
+  artifactKey: Guid(0567502dc4db7264e8db43fcfa0503bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Style Sound Effects/Lo-Fi_8-Bit_11025Hz [Tiny Files]/Blip_C_06_8-Bit_11025Hz.wav using Guid(0567502dc4db7264e8db43fcfa0503bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e711e77d6b2a05d9e7b376bb6132ba2') in 0.035407 seconds
+  Import took 0.037117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.946522 seconds.
+  path: Assets/Scenes/GameOver.unity
+  artifactKey: Guid(af20d7eed207fab4bb3edbd13e3740e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameOver.unity using Guid(af20d7eed207fab4bb3edbd13e3740e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6dfa37b166947599c0affedec0e2885') in 0.002529 seconds
+  Import took 0.004257 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000491 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.600 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395206) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1170 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.6 MB.
+System memory in use after: 62.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1663.
+Total: 1.535800 ms (FindLiveObjects: 0.084300 ms CreateObjectMapping: 0.019600 ms MarkObjects: 1.374800 ms  DeleteObjects: 0.056200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000536 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.685 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395206) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1170 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.7 MB.
+System memory in use after: 62.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1666.
+Total: 2.513800 ms (FindLiveObjects: 0.248300 ms CreateObjectMapping: 0.096700 ms MarkObjects: 2.100300 ms  DeleteObjects: 0.067000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 111.103500 seconds.
+  path: Assets/Scenes/Stage01.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage01.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '380500e68753b34cd400e4b28cfe63cf') in 0.013580 seconds
+  Import took 0.016643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004484 seconds.
+  path: Assets/Scenes/Stage01.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage01.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '380500e68753b34cd400e4b28cfe63cf') in 0.003240 seconds
+  Import took 0.005828 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000648 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.614 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395206) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1170 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.7 MB.
+System memory in use after: 62.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1669.
+Total: 1.494900 ms (FindLiveObjects: 0.097300 ms CreateObjectMapping: 0.025500 ms MarkObjects: 1.304000 ms  DeleteObjects: 0.066700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
